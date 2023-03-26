@@ -16,7 +16,7 @@
 
 <img src ='https://user-images.githubusercontent.com/103254717/227786617-819861c0-03cd-4e8d-b6a5-40c2c28627dd.svg'/>
 
-<h4>my Email: www.khakia7961@gmail.com</h4>
+<h3>my Email: www.khakia7961@gmail.com</h3>
 
 ## Thanks for visites
 
