@@ -6,3 +6,4 @@
 
 
 <h3>The technologies I work with:</h3>
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
